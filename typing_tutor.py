@@ -1,3 +1,4 @@
+# Typing Tutor : measure typing accuracy and speed
 import time
 
 SENTENCES = [
